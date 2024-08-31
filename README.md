@@ -22,4 +22,4 @@ This project implements a Convolutional Neural Network (CNN) to classify handwri
 
 2. Install the required packages
    ```bash
-  pip install torch torchvision
+   pip install torch torchvision
